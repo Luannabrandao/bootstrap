@@ -1,0 +1,28 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color:rgb(255, 173, 234);
+}
+
+.fotografia{
+    background-color: rgb(173, 32, 126);
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.imagens{
+    background-color: rgb(143, 64, 132);
+}
+.lugares{
+    background-color: blueviolet;
+}
+.bg-footer{
+    background-color: black;
+    color:white;
+}
