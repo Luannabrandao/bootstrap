@@ -23,4 +23,4 @@ no qual criei uma pagina com o Bootstrap!
 
 ##  Let's Go Ahead! 🤩
 
-![screencapture-file-C-Users-Clara-OneDrive-Documentos-bootstrap-index-html-2021-04-26-23_03_11](https://user-images.githubusercontent.com/81788948/116233512-c4af7000-a731-11eb-9b27-d17b1268caa7.png)
+![screencapture-file-C-Users-Clara-OneDrive-Documentos-bootstrap-index-html-2021-04-26-23_03_11](https://user-images.githubusercontent.com/81788948/116233635-ec9ed380-a731-11eb-8155-898e9aa990e4.png)
